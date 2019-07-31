@@ -7,7 +7,7 @@
   "url": "https://github.com/bline79/hassio-addons/tree/master/tensorflow",
   "startup": "once",
   "boot": "manual",
-  "image": "hunterjm/{arch}-addon-tensorflow",
+  "image": "bline79/{arch}-addon-tensorflow",
   "map": ["config:rw"],
   "options": {},
   "schema": {}
